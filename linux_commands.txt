@@ -1,0 +1,5 @@
+Basic Linux Commands
+
+1) pwd  - print working directory
+
+2) cd  - change directory
